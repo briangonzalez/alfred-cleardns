@@ -1,6 +1,6 @@
 {
   "name": "alfred-cleardns",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Clear DNS via Alfred.",
   "license": "MIT",
   "repository": "briangonzalez/alfred-cleardns",
