@@ -1,4 +1,4 @@
-# alfred-cleardns [![Build Status](https://travis-ci.org/briangonzalez/alfred-cleardns.svg?branch=master)](https://travis-ci.org/briangonzalez/alfred-cleardns)
+# alfred-cleardns
 
 > Clear DNS via Alfred.
 
@@ -14,7 +14,7 @@ $ npm install --global alfred-cleardns
 
 ## Usage
 
-In Alfred, type `cleardns`, <kbd>Enter</kbd>, and your query.
+In Alfred, type `cleardns`, then hit <kbd>Enter</kbd>.
 
 
 ## License
